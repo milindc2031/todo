@@ -1,5 +1,5 @@
 FROM node:slim
-LABEL maintainer = "jani@janakiram.com"
+LABEL maintainer = "me@afourtech.com"
 RUN mkdir -p /usr/src/app
 WORKDIR /usr/src/app
 COPY ./app/ ./
