@@ -7,7 +7,7 @@ metadata:
     app: todoapp
 spec: 
   containers: 
-    - image: janakiramm/todo
+    - image: chaudharimilind07/todo
       name: myweb
       ports: 
         - containerPort: 3000
